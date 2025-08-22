@@ -1,0 +1,24 @@
+Question 1: Write a Python program to perform arithmetic operations: addition, subtraction, multiplication, and division.
+
+
+Question 2: Write a Python program to demonstrate comparison operators: equal to, not equal to, greater than, less than.
+
+
+Question 3: Write a Python program to calculate the square of a number.
+
+Question 4: Write a Python program to check if a number is even or odd.
+
+Question 5: Write a Python program to find the sum of the first n natural numbers.
+
+Question 6: Write a Python program to check if a year is a leap year.
+
+Question 7: Write a Python program to reverse a string.
+
+Question 8: Write a Python program to check if a string is a palindrome.
+
+Question 9: Write a program that asks the user to input a number and prints whether the number is positive and even, positive and odd, or negative.
+
+Question 10: Write a program that prints all the numbers from 1 to 10 using a for loop.
+
+
+Question 11: Write a program that prints all the numbers from 1 to 10 using a while loop.
